@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nanduyadavrny
 - 👀 I’m interested in Machine Learning and AI
-- 🌱 I’m currently learning pursuing undergad
+- 🌱 I’m currently pursuing undergad
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...nanduyadavrny@gmail.com
 
